@@ -1,5 +1,5 @@
 # AdventOfCode-2022
-My Advent of Code repository! I'll be joining for the first time so go easy on me ;)  
+My Advent of Code repository! I'll be joining for the first time so go easy on me 😁  
 Coding language: Python
 
 ---
