@@ -3,7 +3,7 @@ My Advent of Code repository! I'll be joining for the first time so go easy on m
 Coding language: Python
 
 ---
-- [ ] Day	1
+- [x] Day	1 - 2 stars - note: done by hand in Excel due to lack of programming software, not recommended
 - [ ] Day	2
 - [ ] Day	3
 - [ ] Day	4
