@@ -1,6 +1,6 @@
 # AdventOfCode-2022
 My Advent of Code repository! I'll be joining for the first time so go easy on me 😁  
-Coding language: Python
+Coding language: Python and Excel
 
 ---
 - [x] Day	1 - 2 stars - note: done by hand in Excel due to lack of programming software, not recommended
