@@ -4,7 +4,7 @@ Coding language: Python
 
 ---
 - [x] Day	1 - 2 stars - note: done by hand in Excel due to lack of programming software, not recommended
-- [ ] Day	2
+- [x] Day	2 - 2 stars - note: done with actual formulas in Excel, much easier
 - [ ] Day	3
 - [ ] Day	4
 - [ ] Day	5
